@@ -1,0 +1,175 @@
+{
+  "planning": {
+    "Algorithme": {
+      "schedule": [
+        {
+          "date": "2024-10-21",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Introduction to Algorithms" },
+            { "start": "13:00", "end": "16:00", "topic": "Sorting Algorithms" }
+          ]
+        },
+        {
+          "date": "2024-10-22",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Graph Algorithms" },
+            { "start": "13:00", "end": "16:00", "topic": "Dynamic Programming" }
+          ]
+        }
+      ]
+    },
+    "Programmation WEB": {
+      "schedule": [
+        {
+          "date": "2024-10-23",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "HTML & CSS Basics" },
+            { "start": "13:00", "end": "16:00", "topic": "JavaScript Fundamentals" }
+          ]
+        },
+        {
+          "date": "2024-10-24",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "React.js" }
+          ]
+        }
+      ]
+    },
+    "Développement Mobile": {
+      "schedule": [
+        {
+          "date": "2024-10-25",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Android Development Basics" },
+            { "start": "13:00", "end": "16:00", "topic": "iOS Development Basics" }
+          ]
+        },
+        {
+          "date": "2024-10-26",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Cross-platform Development with React Native" }
+          ]
+        }
+      ]
+    },
+    "Administrateur réseau": {
+      "schedule": [
+        {
+          "date": "2024-10-28",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Networking Fundamentals" },
+            { "start": "13:00", "end": "16:00", "topic": "Network Security Basics" }
+          ]
+        },
+        {
+          "date": "2024-10-29",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Advanced Networking Techniques" }
+          ]
+        }
+      ]
+    },
+    "Système LINUX": {
+      "schedule": [
+        {
+          "date": "2024-10-30",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Linux Basics" },
+            { "start": "13:00", "end": "16:00", "topic": "System Administration" }
+          ]
+        },
+        {
+          "date": "2024-10-01",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Advanced Linux Commands" }
+          ]
+        }
+      ]
+    },
+    "Marketing": {
+      "schedule": [
+        {
+          "date": "2024-10-03",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Fondamentaux du Marketing" },
+            { "start": "13:00", "end": "16:00", "topic": "Marketing Digital" }
+          ]
+        },
+        {
+          "date": "2024-11-04",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Stratégie de Contenu" },
+            { "start": "13:00", "end": "16:00", "topic": "Publicité et Promotion" }
+          ]
+        }
+      ]
+    },
+    "Ressource Humaine": {
+      "schedule": [
+        {
+          "date": "2024-11-05",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Gestion des Talents" },
+            { "start": "13:00", "end": "16:00", "topic": "Recrutement et Sélection" }
+          ]
+        },
+        {
+          "date": "2024-11-06",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Formation et Développement" }
+          ]
+        }
+      ]
+    },
+    "Comptabilité": {
+      "schedule": [
+        {
+          "date": "2024-11-07",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Comptabilité de Gestion" }
+          ]
+        },
+        {
+          "date": "2024-11-08",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Analyse Financière" }
+          ]
+        }
+      ]
+    },
+    "Entrepreneuriat": {
+      "schedule": [
+        {
+          "date": "2024-11-09",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Création d'Entreprise" },
+            { "start": "13:00", "end": "16:00", "topic": "Business Plan" }
+          ]
+        },
+        {
+          "date": "2024-11-11",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Innovation et Gestion des Risques" }
+          ]
+        }
+      ]
+    },
+    "Leadership": {
+      "schedule": [
+        {
+          "date": "2024-11-12",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Compétences en Leadership" },
+            { "start": "13:00", "end": "16:00", "topic": "Prise de Décision Stratégique" }
+          ]
+        },
+        {
+          "date": "2024-11-13",
+          "sessions": [
+            { "start": "09:00", "end": "12:00", "topic": "Motivation et Gestion d'Équipe" }
+          ]
+        }
+      ]
+    }
+  }
+}

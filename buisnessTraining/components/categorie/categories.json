@@ -1,0 +1,88 @@
+{
+    "categories": [
+      {
+        "name": "INFORMATIQUE",
+        "description": "Explore the world of computing, from algorithms to mobile development and system administration.",
+        "image": "computer",  
+        "subcategories": [
+          {
+            "name": "Algorithme",
+            "description": "Apprenez à concevoir et analyser des algorithmes pour résoudre des problèmes complexes.",
+            "image": "algo",
+            "price" : "50 000"
+          },
+          {
+            "name": "Programmation WEB",
+            "description": "Maîtrisez les technologies de développement web front-end et back-end.",
+            "image": "progweb",
+            "price" : "70 000"
+          },
+          {
+            "name": "Développement Mobile",
+            "description": "Plongez dans le développement d'applications mobiles pour Android et iOS.",
+            "image": "mobiledev",
+            "price" : "80 000"
+          },
+          {
+            "name": "Administrateur réseau",
+            "description": "Comprenez les subtilités de l'administration des réseaux et de la sécurité.",
+            "image": "adminnetwork",
+            "price" : "70 000"
+          },
+          {
+            "name": "Système LINUX",
+            "description": "Apprenez à gérer les systèmes Linux et ses vastes capacités en administration système.",
+            "image": "linux",
+            "price" : "40 000"
+          }
+      ]
+    },
+      {
+        "name": "GESTION",
+        "image": "gestion",
+        "description": "Explorer le monde de la gestion, et bla bla bla",
+        "subcategories": [
+          {
+            "name": "Marketing",
+            "description": "Maîtrisez les stratégies de marketing modernes pour développer votre entreprise, de l’analyse de marché à la gestion de marque en passant par le marketing digital.",
+            "image": "Marketing",
+            "price" : "50 000"
+          },
+          {
+            "name": "Ressource Humaine",
+            "description": "Apprenez à gérer efficacement le capital humain de votre entreprise, des processus de recrutement à la gestion des carrières et des performances.",
+            "image": "RH",
+            "price" : "70 000"
+          },
+          {
+            "name": "Comptabilité",
+            "description": "Acquérez les compétences essentielles pour gérer les finances d’une entreprise, de la comptabilité de base aux analyses financières avancées.",
+            "image": "Compta",
+            "price" : "80 000"
+          },
+          {
+            "name": "Entreureunariat",
+            "description": "Développez l’esprit d’entrepreneur et apprenez à transformer des idées novatrices en entreprises prospères à travers des études de cas et des outils pratiques.",
+            "image": "Entrepreunariat",
+            "price" : "70 000"
+          },
+          {
+            "name": "Leadership",
+            "description": "Renforcez vos compétences en leadership, apprenez à motiver vos équipes, à prendre des décisions stratégiques et à diriger avec confiance.",
+            "image": "Leadership",
+            "price" : "40 000"
+          }
+      ]
+      },
+      {
+        "name": "COMMUNICATION",
+        "subcategories": [
+          "Français",
+          "Anglais",
+          "Allemand",
+          "Mandarin"
+        ]
+      }
+    ]
+  }
+  
